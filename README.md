@@ -10,6 +10,6 @@
 <h2 align="center"><b>My Tools:</b><h2>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,octave,linux,powershell,stackoverflow,idea&perline=5" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,linux,powershell,idea,stackoverflow,octave&perline=5" />
   </a>
 </p>
