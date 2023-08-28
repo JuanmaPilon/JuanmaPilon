@@ -3,11 +3,12 @@
 
 <br>
 
-<h2 align="center"><b>My Skills:</b><h2>
+<h2 align="center"><b>My Skills:</b></h2>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,nodejs,css,html,java,python,cpp,c,mysql&perline=5" />
   </a>
+  </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -25,7 +26,7 @@
 <br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github Stats</b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b>GitHub Stats</b>
 
 
 <br>
@@ -42,4 +43,13 @@
 
 <br>
 <br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif" width="50"><b>GitHub Trophies</b>
+
 <br>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JuanmaPilon&theme=algolia)](https://github.com/JuanmaPilon/github-profile-trophy)
+
+</div>
