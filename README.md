@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center"><b>My Tools:</b>
-<h2>
+</h2>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,linux,powershell,idea,stackoverflow,octave&perline=5" />
@@ -23,11 +23,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b>GitHub Stats</b>
-
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="70">
+<span style="font-size: 30px; color: yellow;"><b>GitHub Stats</b></span>
 
 <br>
 <br>
@@ -39,13 +38,14 @@
 ![JuanmaPilon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JuanmaPilon&theme=outrun&hide_border=false)
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-<br>
 
-<div align="center">
-<img src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif" width="50"><b>GitHub Trophies</b>
+<div align="center" >
+<img src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif" width="50">
+<span style="font-size: 30px; color: yellow"><b>GitHub Trophies</b></span>
 
 <br>
 <br>
@@ -53,3 +53,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuanmaPilon&theme=algolia)](https://github.com/JuanmaPilon/github-profile-trophy)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
