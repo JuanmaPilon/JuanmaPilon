@@ -1,5 +1,34 @@
-<h1 align="center"><b>Hi , I'm Juan Martin Pilon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Titulo -->
+
+<h1 align="center"><b>Hi , I'm Juan Martin Pilon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
+
+<!-- Sociales -->
+
+<div align="center">
+
+<h2>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFuZWU2MDN0cTV4YXVuZzMwaDV0Mm5jdHNhYnRmbjNtbjg2YmlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="50" />
+<b>My Skills:</b>
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanmartinpilon/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/230104584964538369">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+  </a>
+  <a href="Inst">
+    <img src="Inst" alt="Instagram" />
+  </a>
+</p>
+
+</div>
+
+<!-- Skills -->
 
 <div align="center">
 
@@ -10,13 +39,13 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,css,html,java,python,cpp,c,mysql&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,css,html,java,python,cpp,c,mysql&perline=6" />
 </a>
 </p>
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Tools -->
 
 <div align="center">
 
@@ -27,13 +56,13 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,linux,powershell,idea,stackoverflow,octave&perline=5" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,linux,powershell,idea,stackoverflow,octave&perline=6" />
 </a>
 </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Stats -->
 
 <div align="center">
 
@@ -50,7 +79,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Trofeos -->
 
 <div align="center">
 
