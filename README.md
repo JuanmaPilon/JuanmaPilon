@@ -10,8 +10,8 @@
 <div align="center">
 
 <h2>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFuZWU2MDN0cTV4YXVuZzMwaDV0Mm5jdHNhYnRmbjNtbjg2YmlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="50" />
-<b>My Skills:</b>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1Y2Y5MWRwZDNiM24ycTM1eTJzc2J3ZGRlZDFmbmw5eDczbHdrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4v5vEC1ipAGORhhIbq/giphy.gif" width="50" />
+<b>Contact me:</b>
 </h2>
 
 <p align="center">
@@ -21,8 +21,8 @@
   <a href="https://discordapp.com/users/230104584964538369">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
-  <a href="Inst">
-    <img src="Inst" alt="Instagram" />
+  <a href="https://www.instagram.com/juanma.pilon/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
@@ -89,6 +89,8 @@
 </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuanmaPilon&theme=algolia)](https://github.com/JuanmaPilon/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=JuanmaPilon&&color=red&style=for-the-badge)
 
 </div>
 
