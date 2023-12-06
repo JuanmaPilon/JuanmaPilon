@@ -7,9 +7,7 @@
 
 <!-- Sociales -->
 
-<br>
-
-<div>
+<div align="center">
 
 <p>
 
@@ -32,7 +30,7 @@
 
 <!-- Skills -->
 
-<div>
+<div align="center">
 
 <p>
 <h3>
@@ -47,7 +45,7 @@
 
 <!-- Tools -->
 
-<div>
+<div align="center">
 
 <p>
 <h3>
