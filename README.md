@@ -69,7 +69,7 @@
 
 <p><img width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&layout=compact" width="400" alt="JuanmaPilon's Top Languages">
 
-<img width="330" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanmaPilon&theme=outrun&hide_border=false&layout=compact" alt="JuanmaPilon's Streak">
+<img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanmaPilon&theme=outrun&hide_border=false&layout=compact" alt="JuanmaPilon's Streak">
 
 <img width="300" src="https://github-readme-stats.vercel.app/api?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="JuanmaPilon's Stats">
 </p>
