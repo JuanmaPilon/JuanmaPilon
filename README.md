@@ -61,7 +61,7 @@
 
 <!-- Stats -->
 
-<div>
+<div align="center">
 
 <h3>
 <b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" />GitHub Stats</b>
@@ -71,14 +71,14 @@
 
 <img width="330" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanmaPilon&theme=outrun&hide_border=false&layout=compact" alt="JuanmaPilon's Streak">
 
-<img width="290" src="https://github-readme-stats.vercel.app/api?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="JuanmaPilon's Stats">
+<img width="300" src="https://github-readme-stats.vercel.app/api?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="JuanmaPilon's Stats">
 </p>
 
 </div>
 
 <!-- Trofeos -->
 
-<div>
+<div align="center">
 
 <h3>
 <b><img src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif" width="40" />GitHub Trophies</b>
