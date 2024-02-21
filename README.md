@@ -17,12 +17,15 @@
   <a href="https://www.linkedin.com/in/juanmartinpilon/">
     <img width="45" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+    </a>
+    <a href="#">
+    <img width="45" src="https://skillicons.dev/icons?i=gmail" alt="GMail" />
+  </a>
   <a href="https://discordapp.com/users/230104584964538369">
     <img width="45" src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
   <a href="https://www.instagram.com/juanma.pilon/">
     <img width="45" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
   
   </p>
 
@@ -37,7 +40,7 @@
 <b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFuZWU2MDN0cTV4YXVuZzMwaDV0Mm5jdHNhYnRmbjNtbjg2YmlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40" />My Skills:</b>
 </h3>
 <a href="https://skillicons.dev">
-<img width="300" src="https://skillicons.dev/icons?i=react,js,nodejs,css,html,bootstrap,java,python,cpp,c,mysql&perline=6" />
+<img width="300" src="https://skillicons.dev/icons?i=react,nuxt,vue,js,nodejs,laravel,php,tailwind,bootstrap,css,html,java,python,cpp,c,mysql&perline=6" />
 </a>
 </p>
   
@@ -52,7 +55,7 @@
 <b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBjeHNvZ3FxZTN6c3J4dWp1cnphanNjZ2JxNGI0anZnOWJlNHZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDaCeaKrHhUI1I8e2b/giphy.gif" width="40" />My Tools:</b>
 </h3>
 <a href="https://skillicons.dev">
-<img width="300" src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,linux,powershell,idea,stackoverflow,octave&perline=6" />
+<img width="300" src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,npm,pinia,windows,linux,ubuntu,regex,powershell,idea,stackoverflow,octave&perline=6" />
 
 </a>
 </p>
