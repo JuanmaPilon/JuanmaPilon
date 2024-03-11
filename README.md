@@ -18,7 +18,7 @@
     <img width="45" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
     </a>
-    <a href="#">
+    <a href="mailto:juanmartin.pilon@gmail.com">
     <img width="45" src="https://skillicons.dev/icons?i=gmail" alt="GMail" />
   </a>
   <a href="https://discordapp.com/users/230104584964538369">
@@ -55,7 +55,7 @@
 <b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBjeHNvZ3FxZTN6c3J4dWp1cnphanNjZ2JxNGI0anZnOWJlNHZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iDaCeaKrHhUI1I8e2b/giphy.gif" width="40" />My Tools:</b>
 </h3>
 <a href="https://skillicons.dev">
-<img width="300" src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,npm,pinia,windows,linux,ubuntu,regex,powershell,idea,stackoverflow,octave&perline=6" />
+<img width="300" src="https://skillicons.dev/icons?i=vscode,github,git,vite,postman,npm,pinia,windows,linux,ubuntu,regex,bash,powershell,idea,stackoverflow,octave&perline=6" />
 
 </a>
 </p>
@@ -70,11 +70,9 @@
 <b><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" />GitHub Stats</b>
 </h3>
 
-<p><img width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&layout=compact" width="400" alt="JuanmaPilon's Top Languages">
-
 <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanmaPilon&theme=outrun&hide_border=false&layout=compact" alt="JuanmaPilon's Streak">
 
-<img width="300" src="https://github-readme-stats.vercel.app/api?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="JuanmaPilon's Stats">
+<img width="320" src="https://github-readme-stats.vercel.app/api?username=JuanmaPilon&theme=outrun&show_icons=true&hide_border=false&count_private=true&layout=compact" alt="JuanmaPilon's Stats">
 </p>
 
 </div>
@@ -88,12 +86,5 @@
 </h3>
 
 [<img width="800" src="https://github-profile-trophy.vercel.app/?username=JuanmaPilon&theme=algolia" alt="GitHub Trophy" />](https://github.com/JuanmaPilon/github-profile-trophy)
-
-<!-- Visitas -->
-
-</div>
-
-<div align="center">
-<img width="200" src="https://komarev.com/ghpvc/?username=JuanmaPilon&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 </div>
