@@ -3,50 +3,61 @@
 <h1 align="center"><b>Hi , I'm Juan Martin Pilon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </h1>
 
-<!-- Sociales -->
+<!--------------------------------------------------- Sociales ----------------------------------------------->
 
-<div align="center">
-
-<p>
+<div>
 
 <h3>
-<b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1Y2Y5MWRwZDNiM24ycTM1eTJzc2J3ZGRlZDFmbmw5eDczbHdrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4v5vEC1ipAGORhhIbq/giphy.gif" width="40" />Contact me:</b>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms1Y2Y5MWRwZDNiM24ycTM1eTJzc2J3ZGRlZDFmbmw5eDczbHdrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4v5vEC1ipAGORhhIbq/giphy.gif" width="25" /><b>Contact me:</b>
+
 </h3>
-  <a href="https://www.linkedin.com/in/juanmartinpilon/">
-    <img width="30" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-    </a>
-    <a href="mailto:juanmartin.pilon@gmail.com">
-    <img width="30" src="https://skillicons.dev/icons?i=gmail" alt="GMail" />
-  </a>
-  <a href="https://discordapp.com/users/230104584964538369">
-    <img width="30" src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/juanma.pilon/">
-    <img width="30" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  
-  </p>
+
+<div>
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
-<!-- Skills -->
-
-<div align="center">
-
-<p>
-<h3>
-<b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFuZWU2MDN0cTV4YXVuZzMwaDV0Mm5jdHNhYnRmbjNtbjg2YmlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40" />My Skills:</b>
-</h3>
-<a href="https://skillicons.dev">
-<img width="260" src="https://skillicons.dev/icons?i=react,nuxt,vue,js,nodejs,laravel,php,tailwind,bootstrap,css,html,java,python,cpp,c,mysql&perline=8" />
-</a>
-</p>
-  
 </div>
 
-<!-- Tools -->
+<!--------------------------------------------------- Skills ------------------------------------------------>
+
+<div>
+
+<h3>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFuZWU2MDN0cTV4YXVuZzMwaDV0Mm5jdHNhYnRmbjNtbjg2YmlsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UVG0BN8TOMKkPOJS6e/giphy.gif" width="25" /><b>Techs that i have worked with:</b>
+
+<div>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+
+
+</div>
+
+</h3>
+
+</div>
+
+<!--------------------------------------------------- Tools ------------------------------------------------>
 
 <div align="center">
 
@@ -62,7 +73,7 @@
 
 </div>
 
-<!-- Stats -->
+<!--------------------------------------------------- Stats ------------------------------------------------>
 
 <div align="center">
 
@@ -77,7 +88,7 @@
 
 </div>
 
-<!-- Trofeos -->
+<!--------------------------------------------------- Trofeos ---------------------------------------------->
 
 <div align="center">
 
