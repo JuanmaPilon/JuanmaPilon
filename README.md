@@ -7,11 +7,11 @@
 
 ---
 
-## ⚙️ What I Do
-- 🌐 **Full-Stack Web Development** (React, Node, Vite)
-- 🤖 **AI-Powered Solutions** (Python, RAG, LLaMA)
-- 🎨 **Responsive UI/UX** with Tailwind CSS
-- 🔧 **Workflow Automation & Microservices**
+## 🚀 Highlights  
+- ⚙️ Full-Stack Development (React, Node, Typescript)  
+- 🤖 AI Integrations (RAG, LLaMA, LangChain)  
+- 🎯 UX/UI Focused Design with Tailwind  
+- 🧠 Always learning something new!
 
 ---
 
@@ -72,16 +72,16 @@
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages" />
+  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" />
   <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget" />
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp" />
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-3A33D1?style=for-the-badge&logo=eslint" />
   <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier" />
 </div>
@@ -95,6 +95,9 @@
   </a>
   <a href="https://www.linkedin.com/in/juanmartinpilon/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href="https://github.com/JuanmaPilon">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/230104584964538369">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
